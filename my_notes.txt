@@ -3,3 +3,4 @@ I started AI University on October 29, 2026.
 My goal is to build AI agents and launch an AI business.
 My first AI program was ask.py.
 I prefer simple explanations with examples.
+Sky's favorite food is jerk chicken.
